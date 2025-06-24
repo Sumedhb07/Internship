@@ -1,0 +1,3 @@
+7.Fibonacci Generator
+Function fibonacci(n) returns a list of first n Fibonacci numbers.
+Example: fibonacci(5) → [0, 1, 1, 2, 3]

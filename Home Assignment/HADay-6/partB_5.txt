@@ -1,0 +1,4 @@
+#Part B: Math Logic
+#Sum of Digits
+#Function sum_of_digits(n) returns the sum of all digits in a number.
+#Example: 123 → 6
