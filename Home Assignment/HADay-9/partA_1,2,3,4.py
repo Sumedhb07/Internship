@@ -1,18 +1,3 @@
-#  Part A: Dictionary Basics
-# 1.Create a Dictionary
-# Create a dictionary named student with keys:
-# o"name" → "Alice"
-# o"age" → 20
-# o"course" → "Python"
-# oPrint the dictionary.
-# 2.Access Values
-# oPrint the value of "name" from the student dictionary.
-# 3.Modify and Add
-# oChange "age" to 21
-# oAdd a new key "city" with value "Mumbai"
-# 4.Delete Key
-# Remove the "course" key from the dictionary using del.
-
 #1.Create a Dictionary
 # Create a dictionary named student with keys:
 # o"name" → "Alice"
